@@ -14,6 +14,6 @@ html {
 
   #bear {
     left: 400px;
-    right: auto;
+    /*right: auto;*/
   }
 }
